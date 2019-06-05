@@ -17,7 +17,7 @@ __ATTENTION 868 Owners:__  If you want to have a dark screen background like the
 
 ## Installation
 
-- Click on the _*.rdt*_ file above.  
+- Click on the *AG7GN\*.rdt* file above.  
 - Click the __Download__ button.  The file will download to your Downloads folder.  
 - Run CPS software and load the file from your Downloads folder.  
 
