@@ -1,4 +1,4 @@
-Version AG7GN_20190713B_Anytone868-GENERIC  
+Version AG7GN_20190713C_Anytone868-GENERIC  
 # DMR Codeplug for Anytone D-868UV  
 This codeplug was configured using Anytone DV868UVE Code Plug Software (CPS) version 1.34 and is intended for 868 radios.
  
