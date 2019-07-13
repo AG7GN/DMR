@@ -12,6 +12,7 @@ __ATTENTION 868 Owners:__  If you want to have a dark screen background like the
 1) Updated Talk Group (TG) lineup for Ferndale UHF repeater to include new full time Brandmeister talk groups WASH EMCOMM and WASH TAC
 2) Updated Digital Contacts list.
 3) Fixed Bradmeister Parrot talk group ID to use the GROUP CALL ID (31000) rather than the PRIVATE CALL ID (9990).
+4) Added PNW Reg 2, WASH 1, WASH EMCOMM and WASH TAC to simplex (Hspot) and Duplex (Hspot2) Hotspot zones.
 
 ## Installation
 
