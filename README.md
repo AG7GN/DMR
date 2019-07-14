@@ -11,7 +11,7 @@ __ATTENTION 868 Owners:__  If you want to have a dark screen background like the
 ## Changes since last Code Plug version:
 1) Updated Talk Group (TG) lineup for Ferndale UHF repeater to include new full time Brandmeister talk groups WASH EMCOMM and WASH TAC.  I also added some other nationwide and worldwide part time TGs that might be of interest.
 2) Updated Digital Contacts list.
-3) Fixed Bradmeister Parrot talk group ID 9990 to be a PRIVATE CALL.
+3) Fixed Bradmeister Parrot talk group ID 9990 to be PRIVATE CALL.
 4) Added PNW Reg 2 (PNWR), WASH 1, WASH EMCOMM and WASH TAC and a few others to BM simplex (Hspot) and BM Duplex (Hspot2) Hotspot zones.
 
 ## Installation
