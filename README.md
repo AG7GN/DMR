@@ -1,12 +1,14 @@
 Version AG7GN_20190714A_Anytone868-GENERIC  
 # DMR Codeplug for Anytone D-868UV  
-This codeplug was configured using Anytone DV868UVE Code Plug Software (CPS) version 1.34 and is intended for 868 radios.
+This codeplug was configured using Anytone DV868UVE Code Plug Software (CPS) version 1.34 and is intended for 868 radios.  It will also work with Anytone DV868UVE CPS version 1.35.
  
 It can also be used on Anytone 878 radios, but be advised that 878 code plugs generally will not work on 868 radios.
 
-The latest CPS and firmware for this radio can be found at [BridgeComm Systems](https://www.bridgecomsystems.com/pages/anytone-at-d868uv-support-page) and the websites of other sellers of this radio. 
+The latest CPS and firmware for the 868 radio can be found at [BridgeComm Systems](https://www.bridgecomsystems.com/pages/anytone-at-d868uv-support-page) and the websites of other sellers of this radio.  The ZIP file you'll download contains both the CPS and radio firmware as well as instructions on how to install both. There's also a video at that website that shows how to update the firmware.  Download the ZIP file and then unzip it to view all the files.
 
-__ATTENTION 868 Owners:__  If you want to have a dark screen background like the cool kids with 878s, download and install firmware version 2.34.
+__ATTENTION 868 Owners:__  If you want to have a dark screen background like the cool kids with 878s, download and install firmware version 2.34 or later.
+
+Firmware version 2.35 adds storage for another 40,000 digital contacts, bringing the total number of digital contacts to 200,000.
 
 ## Changes since last Code Plug version:
 1) Updated Talk Group (TG) lineup for Ferndale UHF repeater to include new full time Brandmeister talk groups WASH EMCOMM and WASH TAC.  I also added some other nationwide and worldwide part time TGs that might be of interest.
